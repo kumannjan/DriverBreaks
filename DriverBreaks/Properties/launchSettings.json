@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DriverBreaks": {
+      "commandName": "Project",
+      "commandLineArgs": "filename ..\\..\\..\\..\\DriverBreakTimes.txt"
+    }
+  }
+}
